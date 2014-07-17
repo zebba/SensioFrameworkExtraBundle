@@ -8,7 +8,7 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Bundle\DoctrineBundle\Registry;
 
 use Doctrine\ORM\NoResultException;
-use Doctrine\ORM\Mapping\MappingException;
+use Doctrine\Common\Persistence\Mapping\MappingException;
 
 /*
  * This file is part of the Symfony framework.
